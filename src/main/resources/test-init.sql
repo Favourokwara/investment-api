@@ -1,0 +1,5 @@
+-- INSERT INTO investors (investor_id, national_id, first_name, last_name)
+-- VALUES (1, '8902124567890', 'Thandiwe', 'Mthembu'),
+--        (2, '8902124567890', 'Nomfundo', 'Ngubane'),
+--        (3, '8902124567890', 'Siyabonga', 'Ndlovu'),
+--        (4, '8902124567890', 'Bongani', 'Nkosi');
